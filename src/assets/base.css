@@ -7,11 +7,11 @@
   margin-top: 60px;
 }
 
-div, button {
+#counter div, #counter button {
   font-size: 40px;
 }
 
-button {
+#counter button {
   padding: 5px 20px;
   border-radius: 3px;
   color: white;
@@ -19,11 +19,11 @@ button {
   margin: 0 5px;
 }
 
-button.dec {
+#counter button.dec {
   background: green;
 }
 
-.alert {
+#counter .alert {
   margin: 25px;
   font-weight: bold;
 }
